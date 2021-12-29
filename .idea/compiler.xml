@@ -6,9 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="JavaFX_chat" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="JavaFX_chat" target="14" />
       <module name="lesson4" target="14" />
     </bytecodeTargetLevel>
   </component>

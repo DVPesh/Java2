@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Java2_homeworks.iml" filepath="$PROJECT_DIR$/Java2_homeworks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaFX_chat/JavaFX_chat.iml" filepath="$PROJECT_DIR$/JavaFX_chat/JavaFX_chat.iml" />
     </modules>
   </component>
 </project>
