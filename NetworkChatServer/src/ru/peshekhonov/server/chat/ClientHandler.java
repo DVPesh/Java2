@@ -60,8 +60,8 @@ public class ClientHandler {
                     sendMessage("Такой пользователь уже есть");
                 } else {
                     sendMessage(String.format("%s %s", AUTH_OK, userName));
-                    server.subscribe(this);
                     user = new User(login, password, userName);
+                    server.subscribe(this);
                     return;
                 }
             }
