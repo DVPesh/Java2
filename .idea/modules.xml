@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Java2_homeworks.iml" filepath="$PROJECT_DIR$/Java2_homeworks.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaFX_chat/JavaFX_chat.iml" filepath="$PROJECT_DIR$/JavaFX_chat/JavaFX_chat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NetworkChatClient/NetworkChatClient.iml" filepath="$PROJECT_DIR$/NetworkChatClient/NetworkChatClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NetworkChatServer/NetworkChatServer.iml" filepath="$PROJECT_DIR$/NetworkChatServer/NetworkChatServer.iml" />
     </modules>
   </component>
 </project>
