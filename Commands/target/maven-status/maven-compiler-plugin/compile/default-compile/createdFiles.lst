@@ -1,0 +1,9 @@
+ru\peshekhonov\clientserver\commands\ErrorCommandData.class
+ru\peshekhonov\clientserver\commands\ClientMessageCommandData.class
+ru\peshekhonov\clientserver\Command.class
+ru\peshekhonov\clientserver\commands\AuthCommandData.class
+ru\peshekhonov\clientserver\commands\UpdateUserListCommandData.class
+ru\peshekhonov\clientserver\commands\PrivateMessageCommandData.class
+ru\peshekhonov\clientserver\CommandType.class
+ru\peshekhonov\clientserver\commands\PublicMessageCommandData.class
+ru\peshekhonov\clientserver\commands\AuthOkCommandData.class

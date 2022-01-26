@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Client/Client.iml" filepath="$PROJECT_DIR$/Client/Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Commands/Commands.iml" filepath="$PROJECT_DIR$/Commands/Commands.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java2_homeworks.iml" filepath="$PROJECT_DIR$/Java2_homeworks.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaFX_chat/JavaFX_chat.iml" filepath="$PROJECT_DIR$/JavaFX_chat/JavaFX_chat.iml" />
       <module fileurl="file://$PROJECT_DIR$/NetworkChatClient/NetworkChatClient.iml" filepath="$PROJECT_DIR$/NetworkChatClient/NetworkChatClient.iml" />
       <module fileurl="file://$PROJECT_DIR$/NetworkChatServer/NetworkChatServer.iml" filepath="$PROJECT_DIR$/NetworkChatServer/NetworkChatServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Server/Server.iml" filepath="$PROJECT_DIR$/Server/Server.iml" />
     </modules>
   </component>
 </project>
